@@ -1,0 +1,1 @@
+g++ -Wall -o ms device_manager.cpp gpio_manager.cpp led_communicator.cpp main.cpp -pthread
